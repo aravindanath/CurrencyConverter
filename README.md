@@ -10,7 +10,7 @@ The Currency Converter allows you to convert monetary values between different c
 
 ## Interface Overview
 
-![Currency Converter Interface Overview](https://via.placeholder.com/800x500)
+![Currency Converter Interface Overview](https://claude.ai/public/artifacts/cda9f8ac-9f26-4477-845b-e8e51280fdb4)
 
 The interface consists of the following key sections:
 
@@ -146,6 +146,7 @@ The application currently supports the following currencies:
 If you encounter any issues or have suggestions for improving the Currency Converter, please contact us at:
 
 - **Email**: aiaravindanath@gmail.com
+- **WebSite**: https://claude.ai/public/artifacts/cda9f8ac-9f26-4477-845b-e8e51280fdb4
 
 We appreciate your feedback and are committed to improving your experience!
 
