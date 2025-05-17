@@ -10,7 +10,7 @@ The Currency Converter allows you to convert monetary values between different c
 
 ## Interface Overview
 
-![Currency Converter Interface Overview](https://claude.ai/public/artifacts/cda9f8ac-9f26-4477-845b-e8e51280fdb4)
+![Currency Converter Interface Overview]
 
 The interface consists of the following key sections:
 
