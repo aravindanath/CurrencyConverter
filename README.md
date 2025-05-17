@@ -10,8 +10,6 @@ The Currency Converter allows you to convert monetary values between different c
 
 ## Interface Overview
 
-![Currency Converter Interface Overview]
-
 The interface consists of the following key sections:
 
 1. **Input Area**: Where you enter the amount and select currencies
